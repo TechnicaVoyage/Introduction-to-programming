@@ -1,0 +1,7 @@
+___________________________________________________________________
+Speed Calculation using v = u + a*t
+___________________________________________________________________
+Enter initial speed(u): 3
+Enter acceleration(a): 4.5
+Enter time(t): 2
+Final speed is: 12.000000

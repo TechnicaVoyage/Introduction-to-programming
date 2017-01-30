@@ -1,0 +1,7 @@
+___________________________________________________________________
+Simple Interest Calculator
+___________________________________________________________________
+Enter Principal amount: 1500
+Enter Rate in percentage: 2.6
+Enter Time period: 12
+Simple interest is: 467.999969
