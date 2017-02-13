@@ -1,0 +1,7 @@
+___________________________________________________________________
+Distance calculation using s = u*t + 1/2at^2
+___________________________________________________________________
+Enter initial speed(u): 10
+Enter acceleration(a): 2
+Enter time(t): 5
+Distance is: 75.000000
