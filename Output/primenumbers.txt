@@ -1,0 +1,2 @@
+Please enter a number: 21
+Number is not prime
