@@ -1,7 +1,7 @@
 # Introduction to programming
-##About
+## About
 This repository contains the programs done in B.Tech degree by GGSIPU in the second semester.
-##Compiler
+## Compiler
 ```
 gcc version 5.3.0 (GCC)
 ```
