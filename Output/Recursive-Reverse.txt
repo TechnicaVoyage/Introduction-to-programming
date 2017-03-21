@@ -1,0 +1,2 @@
+Enter number: 124589
+Reverse number is: 985421
