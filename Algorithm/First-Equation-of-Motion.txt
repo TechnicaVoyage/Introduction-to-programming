@@ -1,0 +1,7 @@
+Algorithm to calculate final velocity using first equation of motion
+
+Step 1: Start
+Step 2: Input Initial speed, acceleration and time.
+Step 3: Calculate final speed using first equation of motion.
+Step 4: Output final speed.
+Step 5: End

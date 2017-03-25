@@ -1,0 +1,7 @@
+Algorithm to calculate Simple Interest
+
+Step 1: Start
+Step 2: Input principal amount, rate, time from the user.
+Step 3: Calculate simple interest using formula.
+Step 4: Output simple interest.
+Step 5: End

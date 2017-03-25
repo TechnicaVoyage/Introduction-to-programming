@@ -1,0 +1,11 @@
+Algorithm to display Fibonacci series till 20 terms
+
+Step 1: Start
+Step 2: Initialize first term as 0, second term as 1 and number of terms = 0.
+Step 3: Print first term.
+Step 4: Calculate third term by adding first term and second term.
+Step 5: Assign value of second term to the first term.
+Step 6: Assign value of third term to the second term.
+Step 7: Increment the value of number of terms by 1.
+Step 8: Check if value of number of terms is less than 20. If yes, go to Step 3.
+Step 9: End

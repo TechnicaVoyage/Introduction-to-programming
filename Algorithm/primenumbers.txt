@@ -1,0 +1,11 @@
+Algorithm to check if number is prime or not.
+
+Step 1: Start
+Step 2: Initialize divisor as 2.
+Step 3: Input number that needs to checked from the user.
+Step 4: Check if divisor is less than half of the number entered in Step 3. If yes, go to Step 5 else go to Step 7.
+Step 5: Check if number is divisible by divisor. If yes, then go to step 7 else go to step 6.
+Step 6: Increment value of divisor by 1, go to Step 4.
+Step 7: Output Number is prime. Go to Step 9.
+Step 8: Output Number is not prime. Go to Step 9.
+Step 9: End

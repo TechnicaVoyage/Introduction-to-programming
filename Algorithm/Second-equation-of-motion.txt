@@ -1,0 +1,7 @@
+Algorithm for calculation of distance using second equation of motion
+
+Step 1: Start
+Step 2: Input initial speed, acceleration, time.
+Step 3: Calculate distance using Second Equation of Motion
+Step 4: Output distance.
+Step 5: End

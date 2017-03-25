@@ -1,9 +1,9 @@
-//WAP to prnt prime numbers
+//WAP to print prime numbers
 #include <stdio.h>
 
 void main() {
 	int num,i=2,prime=1;
-	
+
 	printf("Please enter a number: ");
 	scanf("%d",&num);
 

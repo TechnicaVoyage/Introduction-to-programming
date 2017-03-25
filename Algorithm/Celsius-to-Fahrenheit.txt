@@ -1,0 +1,7 @@
+Algorithm to convert Temperature from Celsius to Fahrenheit
+
+Step 1: Start
+Step 2: Input temperature in Celsius.
+Step 3: Calculate temperature in Fahrenheit.
+Step 4: Output temperature in Fahrenheit.
+Step 5: End

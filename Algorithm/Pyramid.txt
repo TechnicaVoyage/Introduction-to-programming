@@ -1,0 +1,11 @@
+Algorithm to print Pyramid Structure
+
+Step 1: Start
+Step 2: Initialize i as 0.
+Step 3: Initialize j as 1.
+Step 4: Print value of j.
+Step 5: Increment value of j by 1.
+Step 6:Check if value of j is less than or equal to i. If yes, go to Step 4 else go to Step 7.
+Step 7: Move to next line on the output screen. Increment value of i by 1.
+Step 8:Check if value of i is less than or equal to 5. If yes, go to Step 3 else go to Step 9.
+Step 9: End
